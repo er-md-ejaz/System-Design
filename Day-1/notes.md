@@ -87,3 +87,4 @@ Designing the internal structure (“skeleton”) of an application by identifyi
 ## 6. Key Line to Remember
 
 > “**If DSA is the brain, LLD is the skeleton of your application.**”
+
